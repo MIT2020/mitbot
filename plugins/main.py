@@ -5,6 +5,13 @@ from random import randint, choice
 crontable = []
 outputs = []
 
+# How to add the things and the stuff:
+# Add some code in the process_message function
+# Use the "txt" variable to access the text from a message
+# To submit a response, call say(data, "your message")
+# (have to pass the data variable so it knows which channel to post it to)
+
+
 def choose(letter, size):
 	with open("mit/" + letter + ".txt", "r") as f:
 		choice = randint(0, size)
