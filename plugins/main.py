@@ -70,7 +70,7 @@ def process_message(data):
 	elif "random image" in txt:
 		say(data, "Here: http://bit.do/bQdnb#" + str(randint(1,999999)))
 	elif 'what' in txt and ("probability" in txt or "chances" in txt):
-		say(data, "My sources indicate a " + str(randint(0,100)) + " probability")
+		say(data, "My sources indicate a " + str(randint(0,100)) + "% probability")
 	elif "dootdoot" in txt:
 		say(data, """```
      _.--""--._        
