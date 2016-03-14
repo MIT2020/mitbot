@@ -66,7 +66,7 @@ def process_message(data):
 	elif "my fortune" in txt:
 		say(data, fortune())
 	elif "has joined the channel" in txt:
-		say(data, "Welcome newcomer! Have this random object as a welcoming gift! http://goo.gl/1fkHTt#" + str(randint(1,999999)))
+		say(data, "Welcome newcomer! Have this individually personalized image as a welcoming gift! http://goo.gl/1fkHTt#" + str(randint(1,999999)))
 	elif "random image" in txt:
 		say(data, "Here: http://goo.gl/1fkHTt#" + str(randint(1,999999)))
 	elif "dootdoot" in txt:
