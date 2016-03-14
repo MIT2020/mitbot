@@ -65,6 +65,8 @@ def process_message(data):
 		say(data, choice(('Definitely not.', 'Without a doubt.', 'My sources indicate yes.', 'I have no idea.', 'Idk, ask Chris Peterson', 'What a stupid question. Obviously not.', 'Yes!', 'NOPE.')))
 	elif "my fortune" in txt:
 		say(data, fortune())
+	elif "has joined the channel" in txt:
+		say(data, "Welcome newcomer! Have this random object as a welcoming gift! " + shorten('http://lorempixel.com/400/200/'))
 	elif "dootdoot" in txt:
 		say(data, """```
      _.--""--._        

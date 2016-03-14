@@ -47,11 +47,14 @@ class RtmBot(object):
             self.last_ping = now
     def input(self, data):
         if "type" in data:
-            function_name = "process_" + data["type"]
-            dbg("got {}".format(function_name))
-            for plugin in self.bot_plugins:
-                plugin.register_jobs()
-                plugin.do(function_name, data)
+            try:
+                function_name = "process_" + data["type"]
+                dbg("got {}".format(function_name))
+                for plugin in self.bot_plugins:
+                    plugin.register_jobs()
+                    plugin.do(function_name, data)
+            except:
+                print("Unexpected explosion, moving on")
     def output(self):
         for plugin in self.bot_plugins:
             limiter = False
