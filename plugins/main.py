@@ -68,7 +68,7 @@ def process_message(data):
 	elif "has joined the channel" in txt:
 		say(data, "Welcome " + txt.split('|')[1].split('>')[0] + "! Here is a one-of-a-kind image we thought you might like. It's based on your personality as interpreted by an algorithm we have been developing over the last few months specifically for this. http://goo.gl/1fkHTt#" + str(randint(1,999999)))
 	elif "random image" in txt:
-		say(data, "Here: http://goo.gl/1fkHTt#" + str(randint(1,999999)))
+		say(data, "Here: http://bit.do/bQdnb#" + str(randint(1,999999)))
 	elif 'what' in txt and ("probability" in txt or "chances" in txt):
 		say(data, "My sources indicate a " + str(randint(0,100)) + " probability")
 	elif "dootdoot" in txt:
