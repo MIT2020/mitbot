@@ -48,7 +48,9 @@ def process_message(data):
 	if 'tell a joke' in txt:
 		r = requests.get("http://tambal.azurewebsites.net/joke/random")
 		say(data, r.json()['joke'])
-	elif any([(txt.startswith(a)) for a in ('where is', 'who is', 'what is', 'what are', 'what do', 'why')]) and (not any([(a in txt) for a in ('this', 'that', 'my', 'their', 'you', 'his', 'her', 'our')])) and '?' in txt:
+	elif 'what' in txt and ("probability" in txt or "chances" in txt):
+		say(data, "My sources indicate a " + str(randint(0,100)) + "% probability")
+	elif any([(txt.startswith(a)) for a in ('where is', 'who is', 'what is', 'what are', 'what do', 'why')]) and (not any([(a in txt) for a in ('this', 'my', 'their', 'you', 'his', 'her', 'our')])) and '?' in txt:
 		#actually sending a request here is pretty useless right now
 		r = requests.get("http://google.com/search", params={"q" : txt})
 		say(data, "Let me Google that for you: " + shorten(r.url))
@@ -69,8 +71,6 @@ def process_message(data):
 		say(data, "Welcome " + txt.split('|')[1].split('>')[0] + "! Here is a one-of-a-kind image we thought you might like. It's based on your personality as interpreted by an algorithm we have been developing over the last few months specifically for this. http://goo.gl/1fkHTt#" + str(randint(1,999999)))
 	elif "random image" in txt:
 		say(data, "Here: http://bit.do/bQdnb#" + str(randint(1,999999)))
-	elif 'what' in txt and ("probability" in txt or "chances" in txt):
-		say(data, "My sources indicate a " + str(randint(0,100)) + "% probability")
 	elif "dootdoot" in txt:
 		say(data, """```
      _.--""--._        
