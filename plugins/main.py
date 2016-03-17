@@ -2,6 +2,7 @@ import time
 import requests
 import json
 from random import randint, choice
+import goslate
 crontable = []
 outputs = []
 
@@ -71,6 +72,14 @@ def process_message(data):
 		say(data, "Welcome " + txt.split('|')[1].split('>')[0] + "! Here is a one-of-a-kind image we thought you might like. It's based on your personality as interpreted by an algorithm we have been developing over the last few months specifically for this. http://goo.gl/1fkHTt#" + str(randint(1,999999)))
 	elif "random image" in txt:
 		say(data, "Here: http://bit.do/bQdnb#" + str(randint(1,999999)))
+	elif "nonsensify" in txt:
+		meme = txt.split('nonsensify')[1]
+		gs = goslate.Goslate()
+		for a in range(8):
+			meme = gs.translate(meme, choice(('zh','ja','ko')))
+			meme = gs.translate(meme, 'en')
+			
+		say(data, meme)
 	elif "dootdoot" in txt:
 		say(data, """```
      _.--""--._        
