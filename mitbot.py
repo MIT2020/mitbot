@@ -33,8 +33,12 @@ class RtmBot(object):
         self.connect()
         self.load_plugins()
         while True:
-            for reply in self.slack_client.rtm_read():
-                self.input(reply)
+            try:
+                for reply in self.slack_client.rtm_read():
+                    self.input(reply)
+            except:
+                print("Whoops, it exploded.")
+                time.sleep(2)
             self.crons()
             self.output()
             self.autoping()
@@ -47,14 +51,12 @@ class RtmBot(object):
             self.last_ping = now
     def input(self, data):
         if "type" in data:
-            try:
-                function_name = "process_" + data["type"]
-                dbg("got {}".format(function_name))
-                for plugin in self.bot_plugins:
-                    plugin.register_jobs()
-                    plugin.do(function_name, data)
-            except:
-                print("Unexpected explosion, moving on")
+            function_name = "process_" + data["type"]
+            dbg("got {}".format(function_name))
+            for plugin in self.bot_plugins:
+                plugin.register_jobs()
+                plugin.do(function_name, data)
+
     def output(self):
         for plugin in self.bot_plugins:
             limiter = False
