@@ -74,10 +74,13 @@ def process_message(data):
 		say(data, "Here: http://bit.do/bQdnb#" + str(randint(1,999999)))
 	elif "nonsensify" in txt:
 		meme = txt.split('nonsensify')[1]
-		gs = goslate.Goslate()
-		for a in range(8):
-			meme = gs.translate(meme, choice(('zh','ja','ko')))
-			meme = gs.translate(meme, 'en')
+		key = 'trnsl.1.1.20160318T202525Z.9433c9941967fc80.a36f7812f8621025e8f7235672a00d5913814a06'
+		api = 'https://translate.yandex.net/api/v1.5/tr.json/translate'
+
+		for lang in ('en-ja','ja-ru', 'ru-zh', 'zh-en'):
+			info = {'text': meme, 'lang': lang, 'format': 'plain', 'key':key}
+			r = requests.post(api, params=info).json()
+			meme = r['text'][0]
 			
 		say(data, meme)
 	elif "dootdoot" in txt:
