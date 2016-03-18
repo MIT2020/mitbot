@@ -59,9 +59,6 @@ def process_message(data):
 		say(data, shorten(txt.split("<")[1].split(">")[0]))
 	elif txt.startswith("echo"):
 		say(data, txt.split('echo')[1])
-	elif (' mit ' in txt) or txt.startswith('mit ') or txt.endswith(' mit') or txt == 'mit':
-		#could probably do something with regex to get rid of those stupid conditions
-		say(data, choose('m', 900) + ' ' + choose('i', 2851) + ' of ' + choose('t', 3575))
 	elif 'ayy lmao' in txt:
 		say(data, 'http://put.nu/files/' + choice(('5785U2A.jpg', 'dBSU_J7.gif', 'mW-rnI2.jpg', 'n5rD3GS.jpg', 'DURylFZ.jpg', '5AR4xo8.jpg', 'wnCTLWV.png', 'UD-FMiC.jpg', 'zr-PLxK.jpg')))
 	elif any([txt.startswith(q) for q in ('is', 'are', 'should', 'can', 'does', 'do', 'will', 'has', 'have', 'am')]) and '?' in txt:
@@ -83,6 +80,9 @@ def process_message(data):
 			meme = r['text'][0]
 			
 		say(data, meme)
+	elif (' mit ' in txt) or txt.startswith('mit ') or txt.endswith(' mit') or txt == 'mit':
+		#could probably do something with regex to get rid of those stupid conditions
+		say(data, choose('m', 900) + ' ' + choose('i', 2851) + ' of ' + choose('t', 3575))
 	elif "dootdoot" in txt:
 		say(data, """```
      _.--""--._        
