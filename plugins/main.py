@@ -3,6 +3,7 @@ import requests
 import json
 from random import randint, choice
 import goslate
+
 crontable = []
 outputs = []
 
@@ -14,7 +15,7 @@ outputs = []
 
 
 def choose(letter, size):
-	with open("mit/" + letter + ".txt", "r") as f:
+	with open("data/mit/" + letter + ".txt", "r") as f:
 		choice = randint(0, size)
 		for a, line in enumerate(f):
 			if a == choice:
@@ -62,7 +63,7 @@ def process_message(data):
 	elif 'ayy lmao' in txt:
 		say(data, 'http://put.nu/files/' + choice(('5785U2A.jpg', 'dBSU_J7.gif', 'mW-rnI2.jpg', 'n5rD3GS.jpg', 'DURylFZ.jpg', '5AR4xo8.jpg', 'wnCTLWV.png', 'UD-FMiC.jpg', 'zr-PLxK.jpg')))
 	elif any([txt.startswith(q) for q in ('is', 'are', 'should', 'can', 'does', 'do', 'will', 'has', 'have', 'am')]) and '?' in txt:
-		say(data, choice(('Definitely not.', 'Without a doubt.', 'My sources indicate yes.', 'I have no idea.', 'Idk, ask Chris Peterson', 'What a stupid question. Obviously not.', 'Yes!', 'NOPE.')))
+		say(data, choice(('No way.', 'Definitely not.', 'Without a doubt.', 'My sources indicate yes.', 'I have no idea.', 'Idk, ask Chris Peterson', 'What a stupid question. Obviously not.', 'Yes!', 'NOPE.', 'Yeah, I think so.')))
 	elif "my fortune" in txt:
 		say(data, fortune())
 	elif "has joined the channel" in txt:
@@ -80,6 +81,14 @@ def process_message(data):
 			meme = r['text'][0]
 			
 		say(data, meme)
+	elif txt.startswith("cpw:"):
+		result = ""
+		search = txt.split("cpw:")[1]
+		with open("data/cpw.txt", "r") as f:
+			for line in f:
+				if search.strip().lower() in line.lower():
+					result += line + "\n"
+		say(data, result if result else "Nothing found")
 	elif (' mit ' in txt) or txt.startswith('mit ') or txt.endswith(' mit') or txt == 'mit':
 		#could probably do something with regex to get rid of those stupid conditions
 		say(data, choose('m', 900) + ' ' + choose('i', 2851) + ' of ' + choose('t', 3575))

@@ -1,0 +1,666 @@
+APR07: 09:00 - 11:00: ZBT Breakfast of Champions
+APR07: 09:00 - 16:00: Thursday UROP Tours Sign-Up
+APR07: 09:00 - 17:00: Classes
+APR07: 09:00 - 17:00: Student Financial Services Open House
+APR07: 09:00 - 23:59: CPW Check-In and Help Desk
+APR07: 10:00 - 16:00: Chocolate City Jukebox
+APR07: 10:00 - 14:00: Come Hang Out with SIPBmems
+APR07: 10:30 - 12:00: Freshman Learning Community Tours
+APR07: 11:00 - 12:30: Baker Horizon Waffles
+APR07: 11:00 - 13:00: Dodge, Duck, Dip, Dive, Dodge
+APR07: 11:30 - 13:00: Introduction to Interphase EDGE
+APR07: 11:30 - 13:00: Outdoor Fun with Course 1!
+APR07: 11:30 - 14:00: Lunch with Kappa Sigma
+APR07: 12:00 - 14:00: Kill It and Grill It
+APR07: 12:00 - 17:00: Teach, Do, Create
+APR07: 12:00 - 20:30: Chill and Grill in the EC Courtyard
+APR07: 13:00 - 14:00: Affording Your MIT Education
+APR07: 13:00 - 14:00: Ping Pong Round Table
+APR07: 13:00 - 15:00: Picnic
+APR07: 13:00 - 17:00: Snacks + Board Games on Campus with ET
+APR07: 13:30 - 14:30: Course 20 Open House
+APR07: 13:30 - 15:00: CPWelcome BBQ with PhiDelts
+APR07: 14:00 - 15:00: Ask Us Anything and Demos
+APR07: 14:00 - 15:00: Dodgeball with Phi Beta Epsilon
+APR07: 14:00 - 15:00: Go Global Panel
+APR07: 14:00 - 15:00: MIT Libraries Tour
+APR07: 14:00 - 15:00: Varsity Crew Open House
+APR07: 14:00 - 15:30: Chemical Engineering Open House
+APR07: 14:00 - 15:30: Freshman Learning Community Tours
+APR07: 14:00 - 16:00: Fire and Ice Part I
+APR07: 14:00 - 16:00: Inventor and Maker Meet-n-Make
+APR07: 14:30 - 16:30: AFROTC Meet and Greet
+APR07: 15:00 - 16:00: The Urban Campus: Safety and Security
+APR07: 15:00 - 16:30: Quidditch Practice
+APR07: 15:00 - 17:00: Capture the Flag
+APR07: 15:00 - 17:00: Ultimate Frisbee with Theta Xi
+APR07: 15:00 - 18:00: BBQ (Day 1) & Slip n Slide
+APR07: 15:17 - 16:17: Ice Cream and UROPs
+APR07: 15:30 - 17:00: Opportunities for Aerospace Engineers
+APR07: 15:30 - 17:00: Wanna Flip Some Disc?
+APR07: 16:00 - 16:30: ESG Information Sessions
+APR07: 16:00 - 17:00: Marvelous Molecules at Play
+APR07: 16:00 - 17:30: Queer Tea Time
+APR07: 16:00 - 18:00: Mix and Mingle with Latinos @ MIT
+APR07: 16:00 - 18:00: Next Big Thing Debut
+APR07: 16:00 - 18:00: On the Oregon Trail
+APR07: 16:00 - 19:00: Friday UROP Tours Sign-Up
+APR07: 16:15 - 17:15: Talks of All Sorts!
+APR07: 16:17 - 19:17: Computer Science and Juice
+APR07: 16:20 - 17:20: Life-Sized Hungry Hungry Hippos
+APR07: 16:22 - 18:22: One Hour Videogame
+APR07: 16:30 - 17:00: ESG Information Sessions
+APR07: 16:30 - 17:30: Where Will I Live?
+APR07: 16:30 - 18:00: Froyo with MedLinks
+APR07: 16:45 - 19:00: Pasta with ALL the Sauces and Falling
+APR07: 17:00 - 18:30: Feast Like a Beast
+APR07: 17:00 - 18:30: Tie Dye T Shirts!
+APR07: 17:00 - 19:00: Blanket Fort Engineering
+APR07: 17:00 - 19:00: Lazer Tag with Maseeh Hall
+APR07: 17:00 - 19:00: Making Lightsabers
+APR07: 17:00 - 20:00: MIT and Chill
+APR07: 17:00 - 20:00: TDCooking
+APR07: 17:15 - 18:15: Start Your Start-Up!
+APR07: 17:17 - 18:17: Truffles and Tribbleations
+APR07: 17:30 - 18:30: Speed Friending
+APR07: 17:30 - 19:15: Multicultural Family Reception
+APR07: 17:30 - 19:30: Chill and Grill
+APR07: 18:00 - 19:00: Dinner with The Tech
+APR07: 18:00 - 19:00: Next House and Chill
+APR07: 18:00 - 19:00: Rub Our Kitties
+APR07: 18:00 - 20:00: Dinner and Sundaes
+APR07: 18:00 - 20:00: Dinner: Taste of Italy
+APR07: 18:00 - 20:00: Mujeres Latinas GBM
+APR07: 18:00 - 20:00: South of the Border Burritos
+APR07: 18:00 - 20:30: Card Night and Chinese Food
+APR07: 18:00 - 20:30: GIANT STUFF with MINI FOOD
+APR07: 18:00 - 20:30: Lying to Your Friends
+APR07: 18:00 - 19:30: Iron Chef at Zeta Psi
+APR07: 18:15 - 19:00: SIPB Pre-Machine Room Tour
+APR07: 18:17 - 19:17: PowerPoint Karaoke
+APR07: 18:30 - 19:30: Thai Dining
+APR07: 18:30 - 20:30: CPW Public Service Expo
+APR07: 18:30 - 20:30: Delts BBQ
+APR07: 18:30 - 20:30: Pre-Welcome LN2 Ice Cream Party!
+APR07: 18:30 - 20:30: Taste of Cambridge
+APR07: 18:30 - 20:30: Why Can Rhydon Learn Surf?
+APR07: 18:36 - 20:36: Dinner at Number Six
+APR07: 19:00 - 20:00: Biology Open House
+APR07: 19:00 - 20:00: Hardware 101 with MakeMIT
+APR07: 19:00 - 20:00: Homemade Dinner
+APR07: 19:00 - 20:00: SIPB Machine Room Tour
+APR07: 19:00 - 20:00: The Coffeehouse Lounge Music Series
+APR07: 19:00 - 20:30: Food Tongue 101
+APR07: 19:00 - 21:00: Chicken and Waffle Dinner
+APR07: 19:00 - 01:00: Open Issue Night
+APR07: 19:17 - 20:17: Clam Olympics
+APR07: 19:17 - 20:17: Storytime Against Humanity
+APR07: 19:30 - 20:30: Super FHE
+APR07: 19:30 - 20:45: Parent and Family Welcome
+APR07: 20:30 - 21:30: CPW Prefrosh Welcome
+APR07: 21:00 - 22:00: Scene Night: Shakespeare and ETC
+APR07: 21:00 - 23:30: Iron Man at Beta
+APR07: 21:30 - 23:00: Wings Over Game Night
+APR07: 21:30 - 23:30: Maseehcre! Part 2
+APR07: 21:30 - 23:59: Night at Hogwarts
+APR07: 21:30 - 00:00: Games That Shouldnt Be Played That Way
+APR07: 21:30 - 00:30: Get SMASHed
+APR07: 21:47 - 23:47: Sufficiently Advanced Technology: The Gathering
+APR07: 22:00 - 23:00: Midnight Glow-in-the Dark Frisbee at 10PM
+APR07: 22:00 - 23:00: Not Your Parents Sex Talk
+APR07: 22:00 - 23:00: Tinfoil Hat Society
+APR07: 22:00 - 23:59: FAQ: Frequent Arduous Questing
+APR07: 22:00 - 23:59: Make Your Own Pizza and Italian Soda
+APR07: 22:00 - 23:59: Pizza Jam
+APR07: 22:00 - 00:00: Origami and Pancake Art
+APR07: 22:00 - 00:00: Smoothies, Cookies & Ice-Cream
+APR07: 22:00 - 00:00: Sundaes at DKE
+APR07: 22:00 - 01:00: Baker Horizon Party
+APR07: 22:00 - 01:00: Pinkies
+APR07: 22:00 - 01:00: Soire de Cheese and Teas
+APR07: 22:00 - 01:00: Steak & Shake
+APR07: 22:00 - 01:00: Wub Wub and Wings
+APR07: 22:28 - 23:28: To Be or Not To Be: The Adventure!
+APR07: 22:47 - 00:47: Storytime with Cruft
+APR07: 23:00 - 00:00: Alternative Sex Seminar
+APR07: 23:00 - 01:00: Cheesecake & Late Night Sporcle Trivia
+APR07: 23:00 - 01:00: FIREHOSE!
+APR07: 23:00 - 01:00: Hot Chocolate, Smores, and The Universe
+APR07: 23:00 - 01:00: Late Night Cannoli
+APR07: 23:00 - 01:00: PowerPoint Karaoke
+APR07: 23:30 - 01:00: Midnight Buffet
+APR07: 23:59 - 01:00: Midnight MacSimNext Ultimate!
+APR08: 00:00 - 01:00: Midnight Snack
+APR08: 00:00 - 01:00: Smash! and Fry Stuff
+APR08: 08:00 - 09:30: Running & Breakfast
+APR08: 08:00 - 10:00: Pancake and Waffle Breakfast
+APR08: 09:00 - 10:00: Brunch with Skullhouse
+APR08: 09:00 - 10:00: Morning Coffee with Faculty and Staff
+APR08: 09:00 - 11:00: ZBT Breakfast of Champions
+APR08: 09:00 - 12:00: Friday UROP Tours Sign-Up
+APR08: 09:00 - 17:00: Classes
+APR08: 09:00 - 17:00: Student Financial Services Open House
+APR08: 09:00 - 20:00: CPW Check-In and Help Desk
+APR08: 10:00 - 11:00: CPW Welcome and Featured Faculty Speakers
+APR08: 10:00 - 11:00: MAS Freshman Program Physics Breakfast
+APR08: 10:00 - 11:00: MIT Libraries Tour
+APR08: 11:00 - 11:30: ESG Information Sessions
+APR08: 11:00 - 11:45: Career Development Open House
+APR08: 11:00 - 12:00: 8.02 Open House & Lecture: Dr. Dourmashkin & Dr. Neely Seeing the Phenomena: Electricity & Magnetism
+APR08: 11:00 - 12:00: Gender Talk Time Brunch
+APR08: 11:00 - 12:00: MIT Public Art and Architecture Tour
+APR08: 11:00 - 13:00: International Students Office Open House
+APR08: 11:00 - 14:00: Back Bay BBQ @ Phi Sig
+APR08: 11:00 - 14:00: Ultimate Sumo Obstacle Course
+APR08: 11:00 - 14:00: ZBT Barbeque
+APR08: 11:15 - 11:35: Martinos Imaging Center Tour
+APR08: 11:15 - 11:35: McDermott Lab Tour
+APR08: 11:30 - 12:00: ESG Information Sessions
+APR08: 11:30 - 13:00: Introduction to Interphase EDGE
+APR08: 11:30 - 13:00: Potato Fest
+APR08: 11:30 - 13:00: Sloan School of Mgmt Open House & Lunch
+APR08: 11:30 - 13:30: Donald Trumplings
+APR08: 11:30 - 14:00: Lunch with Kappa Sigma
+APR08: 11:35 - 11:55: Martinos Imaging Center Tour
+APR08: 11:35 - 11:55: McDermott Lab Tour
+APR08: 11:47 - 13:47: Practical Algorithms
+APR08: 11:55 - 12:15: Martinos Imaging Center Tour
+APR08: 12:00 - 12:45: Prehealth Open House
+APR08: 12:00 - 13:00: Brunch with Chabad
+APR08: 12:00 - 13:00: Corn Hole/Kan Jam
+APR08: 12:00 - 13:00: Course 3 Open House
+APR08: 12:00 - 13:00: Crepe Brunch
+APR08: 12:00 - 13:00: Economics Department Lunch & Reception
+APR08: 12:00 - 13:00: IFC Forum for Parents
+APR08: 12:00 - 13:00: IFC Forum for Prefrosh
+APR08: 12:00 - 13:00: Lawn Games and Lunch with PhiDelts
+APR08: 12:00 - 13:00: SIGMA CHI: Grilling
+APR08: 12:00 - 13:00: Sorority Information Session
+APR08: 12:00 - 13:00: Taste of Design For America
+APR08: 12:00 - 13:00: UROP Panel
+APR08: 12:00 - 13:30: Grilin and Krillin
+APR08: 12:00 - 13:30: Kresge Cookout
+APR08: 12:00 - 14:00: Before I graduate, I want to _______.
+APR08: 12:00 - 14:00: Carne Asada
+APR08: 12:00 - 14:00: Chi Phi BBQ and Open House
+APR08: 12:00 - 14:00: Delta Phi Epsilon Carnival
+APR08: 12:00 - 14:00: Entrepreneurship & Innovation at MIT
+APR08: 12:00 - 14:00: Origami and Vegetables
+APR08: 12:00 - 14:00: Pizza and Games
+APR08: 12:00 - 14:00: Snacks + Board Games on Campus with ET
+APR08: 12:30 - 13:30: Hands-on Dessert + Terrascope Open House
+APR08: 12:30 - 14:00: Chocolate Painting & Fruit
+APR08: 12:30 - 14:00: Concourse Open House
+APR08: 12:30 - 14:00: Make Your Own LED Wheel
+APR08: 12:30 - 14:00: Next Sustain: Capture the Cardboard
+APR08: 13:00 - 13:30: Sloan Tour of E62
+APR08: 13:00 - 13:45: Global Education (GECD) Open House
+APR08: 13:00 - 14:00: About Housing
+APR08: 13:00 - 14:00: Affording Your MIT Education
+APR08: 13:00 - 14:00: Athletes in Action - Tournament & Prizes
+APR08: 13:00 - 14:00: Athletics, Physical Education, and Recreation Fair
+APR08: 13:00 - 14:00: First Generation Welcome Panel
+APR08: 13:00 - 14:30: A (Ravenous) Research Reunion
+APR08: 13:00 - 15:00: Architecture Design 2 - Open Studio
+APR08: 13:20 - 14:00: Muslim Jumuah Prayer
+APR08: 14:00 - 15:00: Academic and Arts Fair
+APR08: 15:00 - 16:00: About TechCASH
+APR08: 15:00 - 16:00: Academic Programming and Support Panel
+APR08: 15:00 - 16:00: Dodge, Duck, Dip, Dive, and Dodge
+APR08: 15:00 - 16:00: Hot Buns on 77
+APR08: 15:00 - 16:30: Cookie Decorating with Code for Good
+APR08: 15:00 - 16:30: Soccer with Phi Beta Epsilon
+APR08: 15:00 - 16:30: Taste of SHASS Lightning Talks
+APR08: 15:00 - 17:00: Delts FIFA and Wings
+APR08: 15:00 - 17:00: Desserts with SHPE
+APR08: 15:00 - 17:00: Ice Cream Extravaganza!
+APR08: 15:00 - 17:00: MIT Ridonkulous & WERQshop
+APR08: 15:00 - 17:00: MITs Entrepreneurial Ecosystem
+APR08: 15:00 - 17:00: Math Department Open House
+APR08: 15:00 - 17:00: Research in Media Arts and Sciences
+APR08: 15:00 - 18:00: BBQ (Day 2) & Petting Zoo
+APR08: 15:00 - 18:00: EYEWTKAC (bwtata)
+APR08: 15:15 - 16:30: Being Out At MIT
+APR08: 15:30 - 16:30: About Dining
+APR08: 15:30 - 17:00: Athletes in Action - Tournament & Prizes
+APR08: 15:30 - 17:00: Chat with WBL Over Cute Desserts
+APR08: 15:30 - 17:00: Course 6 Presentation
+APR08: 15:30 - 17:00: Gummy Mudpies with UA Sustainability
+APR08: 15:30 - 17:00: Sporcle Madness
+APR08: 15:30 - 17:00: Star Spangled Barbecue
+APR08: 15:30 - 17:00: Talks of All Sorts!
+APR08: 15:30 - 17:30: Minority Mens Discussion
+APR08: 15:30 - 17:30: Netflix and Grill at Zeta Psi
+APR08: 15:30 - 17:30: Werewolves and Pancakes
+APR08: 15:30 - 01:00: Chill and Grill in the EC Courtyard
+APR08: 15:47 - 17:47: Character Building
+APR08: 15:47 - 18:47: Hair to Dye For
+APR08: 16:00 - 16:30: Meet the ESG Staff Reception
+APR08: 16:00 - 17:00: About FSILGs
+APR08: 16:00 - 17:00: Biology UROP Panel
+APR08: 16:00 - 17:00: Indoor Sports
+APR08: 16:00 - 17:00: Japanese Game Show
+APR08: 16:00 - 17:00: MIT DCI Info Session & CTF
+APR08: 16:00 - 17:00: Mechanical Engineering Info Session
+APR08: 16:00 - 17:00: The Miracle Berry Experience with Pi Lam
+APR08: 16:00 - 17:30: Meet Members of the Sloan Business Club!
+APR08: 16:00 - 17:30: Secrets Of Consciousness
+APR08: 16:00 - 17:30: Sorority Ice Cream Social
+APR08: 16:00 - 17:30: Theater Games
+APR08: 16:00 - 17:45: LUChA Elote Cart
+APR08: 16:00 - 18:00: FFFFFFFF
+APR08: 16:00 - 18:00: How to Power Tool
+APR08: 16:00 - 18:00: MSA Frisbee and Capture the Flag
+APR08: 16:00 - 18:00: Meet the Houseteam
+APR08: 16:00 - 18:00: New House Housemaster Reception
+APR08: 16:00 - 18:00: Puzzle Hunt with HackMIT!
+APR08: 16:00 - 18:00: Rainbow Lounge Open House
+APR08: 16:00 - 18:00: T-Shirts and Stencils
+APR08: 16:00 - 19:00: Rolling with Theta Chi
+APR08: 16:00 - 19:00: Sm4sh Tournament
+APR08: 16:22 - 19:22: Make Your Own Backgammon Board
+APR08: 16:30 - 17:00: ESG Information Sessions
+APR08: 16:30 - 18:00: Nuclear Potato
+APR08: 16:31 - 17:27: African Dance Workshop
+APR08: 16:33 - 18:33: Rage Against the Machines
+APR08: 16:45 - 19:00: Make Your Own Pizza and Chess Variants
+APR08: 16:47 - 18:47: LN2 Ice Cream and Truffles
+APR08: 17:00 - 17:30: ESG Information Sessions
+APR08: 17:00 - 18:00: A Cappella with the Logarhythms
+APR08: 17:00 - 18:00: BCSS Science Ice-Cream Mixer!
+APR08: 17:00 - 18:00: Chem-Con 2016
+APR08: 17:00 - 18:00: Movie Night!
+APR08: 17:00 - 18:00: Shoeblade and Forkapple
+APR08: 17:00 - 18:00: Student Session on Economics at MIT
+APR08: 17:00 - 18:00: mitBEEF
+APR08: 17:00 - 18:30: AISES Frybread Meet & Greet
+APR08: 17:00 - 18:30: CSC Noodle Extravaganza
+APR08: 17:00 - 19:00: Burger Bar
+APR08: 17:00 - 19:00: Chopped (College Edition)
+APR08: 17:00 - 19:00: Cooking with Mujeres Latinas
+APR08: 17:00 - 19:00: CryoFAC
+APR08: 17:00 - 19:00: Grill, Fill, and Chill
+APR08: 17:00 - 19:00: Minute to Win It
+APR08: 17:00 - 19:00: TexMex Dinner Feast
+APR08: 17:00 - 19:00: Ultimate Frisbee Fun!
+APR08: 17:00 - 19:00: Vegetarian Banquet
+APR08: 17:00 - 20:00: 8-Player Smash
+APR08: 17:00 - 20:00: Desmond Plays
+APR08: 17:00 - 20:00: Fiesta Friday
+APR08: 17:00 - 20:00: KSA Social
+APR08: 17:00 - 23:00: Smoothies on Deck!
+APR08: 17:00 - 23:00: Tea Blending at pika
+APR08: 17:06 - 18:06: Ice Cream Sandwiches at No6
+APR08: 17:15 - 18:15: Emerson Scholar Student Recital
+APR08: 17:30 - 19:00: Dinner and Sundaes
+APR08: 17:30 - 19:30: Pupusas, Guac, and Chill
+APR08: 17:30 - 19:30: Sigma Kappa Presents: The Olympic Games
+APR08: 17:45 - 19:30: Viernes Gigante
+APR08: 17:47 - 18:47: Chemistry and Cake
+APR08: 18:00 - 19:00: Iron Chef
+APR08: 18:00 - 19:00: Parent Session on Economics at MIT
+APR08: 18:00 - 19:30: SWE Information Dinner
+APR08: 18:00 - 20:00: Cards Against Humanitarians
+APR08: 18:00 - 20:00: Dinner: ZBT Steak Night
+APR08: 18:00 - 20:00: Gerrys World Famous Fried Chicken
+APR08: 18:00 - 20:00: How to: Fighting Robots ft. Charles Guan
+APR08: 18:00 - 20:00: Roll your own sushi!
+APR08: 18:00 - 20:00: [FOOD]Welcome to ESG:Work Eat Nap Repeat
+APR08: 18:00 - 21:00: MIT Vietnamese Student Association
+APR08: 18:00 - 20:00: SGBIS: A Cappella Showcase
+APR08: 18:30 - 19:00: Water War!
+APR08: 18:30 - 19:30: All You Can Eat Ribs
+APR08: 18:30 - 20:00: Art(Dont)Work
+APR08: 18:30 - 20:00: Parent and Family Reception
+APR08: 18:45 - 20:30: Dner  la Maison
+APR08: 19:00 - 20:00: Hippie Commune
+APR08: 19:00 - 20:00: Homemade Dinner
+APR08: 19:00 - 20:30: Annual Campus Preview Weekend Concert
+APR08: 19:00 - 20:30: Public Service Student Group Highlight
+APR08: 19:00 - 20:30: Waffles, Barbeque, and Jesus
+APR08: 19:00 - 21:00: Boba and Karaoke
+APR08: 19:00 - 21:00: Game Night with The Tech
+APR08: 19:00 - 21:00: Homemade Donuts and Fried Chicken
+APR08: 19:00 - 21:00: SIMFEST: SIMMONS EXTRAVAGANZA
+APR08: 19:00 - 21:00: Shabbat Dinner
+APR08: 19:00 - 21:00: Smoothies and Smash Bros.
+APR08: 19:00 - 21:00: Smores and Bonfire
+APR08: 19:00 - 21:30: How to Make Big Decisions with God
+APR08: 19:00 - 21:30: Laser Maze
+APR08: 19:00 - 21:30: Meet and Greet with MIT Africans Club
+APR08: 19:00 - 22:00: Cards and Wings
+APR08: 19:00 - 22:00: Pasta Feed and Ice Cream Sundays
+APR08: 19:00 - 22:00: Salsa and Bachata Lessons/Dance Party
+APR08: 19:00 - 23:00: SAAS Cultural Showcase: Kahani
+APR08: 19:00 - 23:00: Star Wars vs. Star Trek
+APR08: 19:00 - 23:59: Anime Party!
+APR08: 19:00 - 01:00: Friday Night MITERS
+APR08: 19:03 - 21:03: Pizza, Pasta, and Ping Pong
+APR08: 19:17 - 20:47: Physics and Fizzes
+APR08: 19:30 - 21:00: Asian Christian Fellowship
+APR08: 19:30 - 21:00: Asian Christian Fellowship Large Group
+APR08: 19:30 - 21:00: Finding God (+ Free Dinner) at MIT
+APR08: 19:30 - 21:30: 3v3 Basketball Tourney
+APR08: 19:30 - 21:30: Alt-sex & relationships Q&A hangout
+APR08: 19:33 - 21:03: Coloring Within the institvte Guidelines
+APR08: 20:00 - 21:00: Charlie Brown Thanksgiving
+APR08: 20:00 - 21:00: Portraiture
+APR08: 20:00 - 21:00: Roadkill Buffet CPW Improv Show
+APR08: 20:00 - 21:00: TechX
+APR08: 20:00 - 21:30: BSU Presents...Wild n Out!
+APR08: 20:00 - 21:30: Meet the Bloggers
+APR08: 20:00 - 22:00: Alpha Chi Aloha
+APR08: 20:00 - 22:00: Henna, Nails & Crafts
+APR08: 20:00 - 22:00: Mystery Smoothies with SAE
+APR08: 20:00 - 22:00: Next Act Presents: The Little Mermaid!
+APR08: 20:00 - 22:00: Pre-Party Shenanigans at Zeta Psi
+APR08: 20:00 - 23:00: ABSK Friday Night Bible Study
+APR08: 20:00 - 23:00: Fondue!
+APR08: 20:00 - 00:00: SIPB Does Cool Things Party
+APR08: 20:30 - 21:30: Jam! Session
+APR08: 20:30 - 00:00: Miyazaki and Boba
+APR08: 20:47 - 21:47: Crazy Cat Lady Make-A-Thon!
+APR08: 21:00 - 22:00: Bouncy Ball Drop
+APR08: 21:00 - 22:00: Deep Fry Food with Alpha Delta Phi
+APR08: 21:00 - 23:00: Building from Nothing
+APR08: 21:00 - 23:00: Flavor Trip Taste Fest
+APR08: 21:00 - 23:00: Game Night
+APR08: 21:00 - 23:00: Lip Synch Battle and Karaoke
+APR08: 21:00 - 00:00: K-Drama Marathon
+APR08: 21:00 - 00:00: ND Food and Lounging
+APR08: 21:00 - 00:00: Next Gamers: Board Games and Milkshakes
+APR08: 21:00 - 01:00: Board Games and Ice Cream
+APR08: 21:30 - 22:30: Poetry and Puns Circle
+APR08: 21:30 - 23:30: Smoothies, Wings, and Games
+APR08: 21:30 - 00:00: Build a Thing out of Stuff
+APR08: 21:45 - 01:00: Aftershock Party
+APR08: 21:47 - 00:47: (Almost) Life-Size Settlers of Catan
+APR08: 22:00 - 23:59: Underground with Beta Theta Pi
+APR08: 22:00 - 00:00: Chicken & Waffles
+APR08: 22:00 - 00:00: Classic Comforts
+APR08: 22:00 - 00:00: Smores and Caffeine!
+APR08: 22:00 - 00:00: Vesuvius Party
+APR08: 22:00 - 01:00: GRAFFITI PARTY
+APR08: 22:00 - 01:00: Glow Hard or Glow Home
+APR08: 22:00 - 01:00: Goldfish Party
+APR08: 22:00 - 01:00: PhiDelts Presents: TROPIC THUNDER PARTY
+APR08: 22:17 - 23:47: Nerdy Singalong!
+APR08: 22:45 - 00:00: Taste of New House!
+APR08: 23:00 - 01:00: An Homage to Jim Jarmusch
+APR08: 23:00 - 01:00: Building Constellations
+APR08: 23:00 - 01:00: Hot Tub and Chill
+APR08: 23:00 - 01:00: Hot Tub and Chill
+APR08: 23:00 - 01:00: Midnight Breakfast
+APR08: 23:00 - 01:00: Midnight Pancakes and Smores
+APR08: 23:00 - 01:00: Nu Smoothies
+APR08: 23:15 - 00:15: Department of Architecture Open House
+APR08: 23:30 - 01:00: After Hours Takeout
+APR08: 23:30 - 01:00: Midnight Buffet
+APR09: 00:00 - 01:00: Paint and Eat Healthy
+APR09: 00:00 - 01:00: Steak & Shake
+APR09: 08:00 - 11:00: Rainbow Breakfast
+APR09: 08:00 - 12:00: Actually Gourmet Breakfast
+APR09: 09:00 - 10:30: Cartoons and Pancakes!
+APR09: 09:00 - 10:30: Insight for Parents by Parents
+APR09: 09:00 - 11:00: Bubbles and Breakfast
+APR09: 09:00 - 11:00: ZBT Breakfast of Champions
+APR09: 09:00 - 12:00: Omnoms at MacGregor
+APR09: 09:00 - 13:00: Student Financial Services Open House
+APR09: 09:00 - 18:00: Navy ROTC Beaver Cup Sailing Regatta
+APR09: 09:00 - 20:00: CPW Check-In and Help Desk
+APR09: 09:47 - 11:47: Saturday Morning Breakfast Cartoons
+APR09: 10:00 - 11:00: About TechCASH
+APR09: 10:00 - 11:00: Come Run with Running Club!
+APR09: 10:00 - 11:00: Freshman/Alumni Summer Internship Program
+APR09: 10:00 - 11:00: Meditation with Chickens
+APR09: 10:00 - 11:30: Multicultural Womens Brunch
+APR09: 10:00 - 11:30: Womens Rugby: Home Game
+APR09: 10:00 - 12:00: Hangout with Fun People! Chess if Bored!
+APR09: 10:00 - 12:00: LBGTQ Friends and Family Brunch
+APR09: 10:00 - 12:00: Latino Parent Panel
+APR09: 10:00 - 12:00: Next Art: The Art of Childhood
+APR09: 10:00 - 12:00: Piles of Pancakes and Brunch Greatness!
+APR09: 10:00 - 12:00: Pitch and Brunch
+APR09: 10:00 - 12:00: Tea Time with AEPhi
+APR09: 10:00 - 13:00: Bagels and Crafts and Anime
+APR09: 10:00 - 13:00: Fight Apathy
+APR09: 10:00 - 14:00: Be or Paint a Mural & Pinata Soccer
+APR09: 10:00 - 17:30: Chill and Grill in the EC Courtyard
+APR09: 10:00 - 17:30: Smoothies on Deck!
+APR09: 10:00 - 17:30: Tea Blending at pika
+APR09: 10:00 - 00:00: Marauders Map Scavenger Hunt
+APR09: 10:30 - 11:30: Having a Healthy Freshman Year
+APR09: 11:00 - 12:00: Chorallaries Mini-Concert
+APR09: 11:00 - 12:00: Cruft Smashing
+APR09: 11:00 - 12:00: Happy Chickens Breakfast!
+APR09: 11:00 - 12:00: World Famous Housemaster Break
+APR09: 11:00 - 12:30: Elevensies
+APR09: 11:00 - 13:00: Blankets and Cinema with APO!
+APR09: 11:00 - 13:00: Make Your Own Pizza
+APR09: 11:00 - 13:00: Mini Golf
+APR09: 11:00 - 13:00: Next Code: Puzzle Triathlon
+APR09: 11:00 - 13:00: String Art
+APR09: 11:00 - 14:00: Frisbee Picnic
+APR09: 11:00 - 14:00: Pillow Fort Picnic
+APR09: 11:00 - 14:00: Pretzels and Pastries
+APR09: 11:00 - 14:00: Tea Party
+APR09: 11:22 - 13:22: Culinary Architecture
+APR09: 11:30 - 12:30: Jam Sesh
+APR09: 11:30 - 12:30: Tea with the Editors
+APR09: 11:30 - 13:00: Chorallaries A Cappella Workshop!
+APR09: 11:30 - 13:00: MIT Consulting Group BBQ
+APR09: 11:30 - 13:30: Prehealth Panel & MIT Premedical Society
+APR09: 11:30 - 14:00: Chinese Undergrad Hangout
+APR09: 11:30 - 14:00: Design for America Showcase
+APR09: 11:30 - 14:00: Lunch with Kappa Sigma
+APR09: 12:00 - 12:30: Cross Products Singing in Lobby 7
+APR09: 12:00 - 13:00: Run 4 Fun
+APR09: 12:00 - 13:00: Ultimate frisbee
+APR09: 12:00 - 14:00: Hanging with Habeshas
+APR09: 12:00 - 14:00: MIT Bhangra Workshop
+APR09: 12:00 - 14:00: Mini Paint Shooters and Picnic
+APR09: 12:00 - 14:00: Pizza Bagels
+APR09: 12:00 - 14:00: Rockbed BBQ
+APR09: 12:00 - 14:00: System Help: Informational Technology
+APR09: 12:00 - 14:00: Theta in the Tropics
+APR09: 12:00 - 15:00: Burger grillin & Gymnast flippin
+APR09: 12:00 - 15:00: Pizza with Brothers
+APR09: 12:00 - 16:00: SIGMA CHI: Grilling & Chilling
+APR09: 12:00 - 16:00: TDC Arcade
+APR09: 12:15 - 13:30: ALL THE SOUPS!
+APR09: 12:17 - 14:17: Dumpling Hylomorphisms
+APR09: 12:22 - 17:22: Hebocon
+APR09: 12:30 - 14:00: Ultimate Frisbee with Zeta Psi
+APR09: 12:30 - 15:30: Keep Calm and Bergeron: Bruins v. Senators
+APR09: 13:00 - 14:00: Housemasters Residential Living Panel
+APR09: 13:00 - 14:00: MIT Mirchi CPW Workshop
+APR09: 13:00 - 14:00: Startup: Entrepreneurship@MIT
+APR09: 13:00 - 14:30: Professor Game Show
+APR09: 13:00 - 15:00: ASA Student Organization Fair
+APR09: 13:00 - 15:00: Dumplings & Molkky
+APR09: 13:00 - 15:00: MakerWorks Tours!
+APR09: 13:00 - 15:00: Next Football Club: Pick Up Soccer Game
+APR09: 13:00 - 15:00: Pool Party
+APR09: 13:00 - 15:00: Smoothies!
+APR09: 13:00 - 15:00: Tree Appreciation and Tire Swinging
+APR09: 13:00 - 16:00: 2nd Biannual Hotdog Eating Contest + BBQ
+APR09: 13:00 - 16:00: Art and Mural Drawing
+APR09: 13:00 - 16:00: Build Solar Power Cars with Energy Club
+APR09: 13:00 - 16:00: Creative Cooking with H Entry
+APR09: 13:00 - 16:00: D&D
+APR09: 13:00 - 16:00: Fly Your Own Drone!
+APR09: 13:06 - 16:06: BBQ at No6
+APR09: 13:17 - 14:47: Puzzling Puzzles
+APR09: 13:30 - 15:30: Life-Sized Board Games
+APR09: 13:30 - 15:30: Live Action Video Games
+APR09: 14:00 - 15:00: Learn to Spin
+APR09: 14:00 - 15:00: Soldering Seminar and Necklace-Making
+APR09: 14:00 - 15:00: The Scholar Athlete at MIT
+APR09: 14:00 - 15:00: Veggies and Veggietales
+APR09: 14:00 - 15:30: Planes and Pinatas
+APR09: 14:00 - 16:00: Latino Block Party
+APR09: 14:00 - 16:00: Machine Shop Tours
+APR09: 14:00 - 16:00: Sponge Scavenger Hunt
+APR09: 14:00 - 17:00: BBQ with the Bros
+APR09: 14:00 - 17:00: CPW Greek Carnival
+APR09: 14:00 - 17:00: Splash! Dunk Tank and Water Balloons
+APR09: 14:00 - 17:30: SIPB Video Game Hackathon
+APR09: 14:00 - 18:00: Bake-Off!
+APR09: 14:00 - 18:00: Fraternity Scavenger Hunt
+APR09: 14:22 - 17:22: Spice Cream
+APR09: 14:30 - 15:30: Live, Laugh, Lead with LTI
+APR09: 14:30 - 16:30: Singing & Snacks with GosCho
+APR09: 14:47 - 17:47: Math and Tea
+APR09: 15:00 - 16:00: Active Minds and Chill
+APR09: 15:00 - 16:00: Data Jack
+APR09: 15:00 - 16:00: Rockstar and Chill
+APR09: 15:00 - 16:00: Yoga With Cats
+APR09: 15:00 - 17:00: Around the World with the ISA
+APR09: 15:00 - 17:00: Build-A-Drink
+APR09: 15:00 - 17:00: Nu(rf) Delta
+APR09: 15:00 - 17:00: Soccer (and Frisbee) on Kresge
+APR09: 15:00 - 17:00: Tea Party
+APR09: 15:00 - 17:00: chocolate Chocolate CHOCOLATE
+APR09: 15:00 - 18:00: Adventure Tours!
+APR09: 15:00 - 18:00: BBQ (Day 3) & Head Shaving & Glitter Tattoos
+APR09: 15:00 - 18:00: Murder Mystery
+APR09: 15:00 - 18:00: The Amazing Game of Drawful!
+APR09: 15:30 - 16:30: AEPie Eating Competition
+APR09: 15:30 - 16:30: Mormon Finger Pudding Painting!
+APR09: 15:30 - 17:00: Folding and Cookies with OrigaMIT
+APR09: 15:30 - 17:00: Playground Games
+APR09: 15:30 - 17:05: Fermi Questions
+APR09: 15:30 - 17:30: Crepes! Rugby!
+APR09: 15:30 - 18:00: Sushi and Smoothies
+APR09: 15:47 - 17:47: Nerf Chess!
+APR09: 16:00 - 17:00: Bobafest
+APR09: 16:00 - 17:00: Cannoli Taste-off
+APR09: 16:00 - 17:00: Hacking the Human Body
+APR09: 16:00 - 17:00: Solar Cockroach Construction
+APR09: 16:00 - 17:30: Ball is Life
+APR09: 16:00 - 17:30: Next Bake: Cupcakes and Karaoke
+APR09: 16:00 - 17:45: Multicultural BBQ
+APR09: 16:00 - 18:00: Capture the Sardines
+APR09: 16:00 - 18:00: Pi Beta Phi - Crafts & Cookies
+APR09: 16:00 - 18:00: Southeast Asian Food Cooking Workshop
+APR09: 16:03 - 17:33: Slam Poetry
+APR09: 16:06 - 17:06: Bubble Soccer
+APR09: 16:30 - 17:30: Heresy, Hair Dyeing, and Henna
+APR09: 16:30 - 18:00: Truffle Making
+APR09: 17:00 - 18:00: APR Dinner
+APR09: 17:00 - 18:00: Family Dinner
+APR09: 17:00 - 18:00: Soccer with Theta Xi
+APR09: 17:00 - 18:00: Zeta Psi Steak and Shake
+APR09: 17:00 - 20:00: Food Tour of the MIT Living Groups!
+APR09: 17:05 - 18:00: Tacos!
+APR09: 17:15 - 18:00: Hot Chocolate with the MIT Ski Team
+APR09: 18:00 - 19:30: CPW Closing Remarks and Variety Show
+APR09: 19:00 - 22:00: Bonfire on Beacon Street
+APR09: 19:00 - 22:00: Concert
+APR09: 19:00 - 22:00: Manakish Night
+APR09: 19:00 - 00:00: Whats Poppin in House 2
+APR09: 19:11 - 20:11: Beyonce Master Class
+APR09: 19:30 - 20:30: Cheese Tasting with ADPhi
+APR09: 19:30 - 20:30: Cookies with Girls Who Kiss Girls
+APR09: 19:30 - 20:30: Dinner: Teriyaki Salmon Night
+APR09: 19:30 - 20:30: Homemade Dinner
+APR09: 19:30 - 20:30: Korean BBQ Party
+APR09: 19:30 - 21:00: Phi Sig Iron Chef
+APR09: 19:30 - 21:00: Steak and Sushi Dinner
+APR09: 19:30 - 21:00: Teas, Truffles, and Tattoos
+APR09: 19:30 - 21:30: Alpha Phi Cupcake Decorating
+APR09: 19:30 - 21:30: Bible Jeopardy
+APR09: 19:30 - 21:30: Improv Games
+APR09: 19:30 - 21:30: Shaved Ice with ACF
+APR09: 19:30 - 22:00: PKT Poker Tournament
+APR09: 19:30 - 22:30: Dance Central
+APR09: 19:30 - 22:30: Sweets, Treats, and Board Games!
+APR09: 19:30 - 23:00: Dr. Who Crossed With Harry Potter
+APR09: 19:30 - 23:30: Chill and Grill in the EC Courtyard
+APR09: 19:30 - 00:00: Video Game Night at Zeta Psi
+APR09: 19:36 - 21:36: Movies Under the Stars
+APR09: 19:47 - 21:17: Nekomimi Maid Cafe
+APR09: 20:00 - 21:00: Drag Rainbow Dinner
+APR09: 20:00 - 21:00: Fortune Telling with Jonathan
+APR09: 20:00 - 21:00: Pool and Froyo with PhiDelts
+APR09: 20:00 - 22:00: Dance Lessons with The Dance Crew
+APR09: 20:00 - 22:00: Larger than Life Games + Chick-fil-A!
+APR09: 20:00 - 22:00: Next Act Presents: The Little Mermaid!
+APR09: 20:00 - 22:00: Ramen Party
+APR09: 20:00 - 22:00: Recipe for La Casa
+APR09: 20:00 - 22:00: Spinning Arts - Spring Fire Performance
+APR09: 20:00 - 22:00: Thinking with Portals
+APR09: 20:00 - 23:00: Games and Hot Chocolate
+APR09: 20:00 - 23:00: Late Night Mahjong
+APR09: 20:00 - 23:00: Patrol!
+APR09: 20:00 - 23:30: Smoothies on Deck!
+APR09: 20:00 - 23:30: Tea Blending at pika
+APR09: 20:00 - 23:59: Laser Maze, Poker, and Smash
+APR09: 20:00 - 00:00: Ill Vibes
+APR09: 20:22 - 22:22: Iron Chef: Canned Bread
+APR09: 20:30 - 22:00: Brazilian Churrascaria
+APR09: 20:30 - 22:00: Crepes & Waffles
+APR09: 21:00 - 22:00: Glow in the Dark Ultimate Frisbee
+APR09: 21:00 - 22:00: Ice Cream!
+APR09: 21:00 - 22:00: LGBTQ Night
+APR09: 21:00 - 22:00: Poetry Reading
+APR09: 21:00 - 22:00: Rainbow Fundue
+APR09: 21:00 - 22:00: Scene Night: Shakespeare and ETC
+APR09: 21:00 - 23:00: AISES Movie Night
+APR09: 21:00 - 23:00: FIFA, Madden, and Wings with PhiDelts
+APR09: 21:00 - 23:00: MSA Ice Cream and Game Night
+APR09: 21:00 - 23:59: Space/Plane Movies with Course 16
+APR09: 21:00 - 01:00: Chi Phi Heaven and Hell Party
+APR09: 21:00 - 01:00: Puzzle Hunt
+APR09: 21:30 - 00:00: Puzzle Hunt
+APR09: 21:47 - 00:47: Pecker Board Game Night
+APR09: 22:00 - 23:00: Glorious [REDACTED]
+APR09: 22:00 - 23:30: This is vegan?! And More Baking Miracles
+APR09: 22:00 - 23:59: Glow in the Dark CTF
+APR09: 22:00 - 23:59: Underground CTF
+APR09: 22:00 - 00:00: Aggressive Cookie Baking
+APR09: 22:00 - 00:00: Mathletes and Atheletes
+APR09: 22:00 - 00:00: Next Make: Your Own Circuit Board
+APR09: 22:00 - 00:00: Queer Entertainment Night!
+APR09: 22:00 - 00:00: Ramen + Ramen Movie
+APR09: 22:00 - 00:00: Tesla Coils!
+APR09: 22:00 - 00:30: All of the Lights
+APR09: 22:00 - 01:00: DKE Whiteout Party
+APR09: 22:00 - 01:00: NDurance
+APR09: 22:00 - 01:00: Project Xi
+APR09: 22:00 - 01:00: SIGMA CHI: Top Gun Party
+APR09: 22:00 - 01:00: TDC Presents: GLOW
+APR09: 22:00 - 01:00: Top of the Sponge
+APR09: 22:30 - 00:00: Arizona and Chill
+APR09: 22:30 - 00:30: Soccer Tennis!
+APR09: 22:47 - 00:47: 1920s Sci-Fi Movie Marathon
+APR09: 23:00 - 01:00: BSU Chicken and Waffles
+APR09: 23:00 - 01:00: Buffalo Wild Wings Game Night
+APR09: 23:00 - 01:00: Chicken and Waffles and Chicken
+APR09: 23:00 - 01:00: Fire and Ice Part II
+APR09: 23:00 - 01:00: Late Night Talbot
+APR09: 23:00 - 01:00: Wings n Chill
+APR09: 23:30 - 01:00: Hot Tub and Chill
+APR10: 00:00 - 01:00: Breakfast at Midnight!
+APR10: 00:00 - 01:00: Midnight Snack
+APR10: 00:00 - 01:00: Silly Video Games and Play with your Food
+APR10: 00:00 - 01:00: Steak & Shake
+APR10: 00:30 - 01:00: Midnight Buffet
+APR10: 01:00 - 03:00: Super Secret Gay Time!
+APR10: 08:00 - 12:00: CPW Check-Out
+APR10: 08:00 - 12:00: Mystery Breakfast
+APR10: 09:00 - 10:00: DOES MACGREGOR EVEN HAVE CULTURE?! (Q&A)
+APR10: 09:00 - 11:00: The Fratly Toast
+APR10: 09:00 - 11:00: ZBT Breakfast of Champions
+APR10: 09:00 - 12:00: Crepes, Crepes, Crepes Galore
+APR10: 09:30 - 10:30: Catholic Mass
+APR10: 09:30 - 11:00: REALLY BIG BUBBLES
+APR10: 10:00 - 11:00: Round Things Appreciation Event
+APR10: 10:00 - 11:30: Experimental Waffles
+APR10: 10:00 - 12:00: And His Name is John Desayuno!
+APR10: 10:00 - 12:00: Chill and Grill in the EC Courtyard
+APR10: 10:00 - 12:00: Laser Tag
+APR10: 10:00 - 12:00: Leftovers!
+APR10: 10:00 - 12:00: Retrocomputing
+APR10: 10:15 - 10:30: Church Visit
+APR10: 10:30 - 12:00: Bagels and Lox
