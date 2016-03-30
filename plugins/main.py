@@ -86,7 +86,23 @@ def process_message(data):
 		search = txt.split("cpw:")[1]
 		with open("data/cpw.txt", "r") as f:
 			for line in f:
-				if search.strip().lower() in line.lower():
+				if search.strip() in line.lower().split(':')[-1]:
+					result += line + "\n"
+		say(data, result if result else "Nothing found")
+	elif txt.startswith("cpw at "):
+		result = ""
+		date,time = txt.split(" ")[2:4]
+		with open("data/cpw.txt", "r") as f:
+			for line in f:
+				date_l = int(line[3:5])
+				time_s = int(line.split(":")[1].strip())
+				time_e = int(line.split(":")[2][-2:])
+				print(date)
+				print(time)
+				print(date_l)
+				print(time_s)
+				print(time_e)
+				if time_s <= int(time) and time_e >= int(time) and int(date) == date_l:
 					result += line + "\n"
 		say(data, result if result else "Nothing found")
 	elif (' mit ' in txt) or txt.startswith('mit ') or txt.endswith(' mit') or txt == 'mit':
