@@ -86,7 +86,7 @@ def process_message(data):
 		search = txt.split("cpw:")[1]
 		with open("data/cpw.txt", "r") as f:
 			for line in f:
-				if search.strip() in line.lower().split(':')[-1]:
+				if search.strip() in " ".join(line.lower().split(':')[4:]):
 					result += line + "\n"
 		say(data, result if result else "Nothing found")
 	elif txt.startswith("cpw at "):
@@ -97,14 +97,12 @@ def process_message(data):
 				date_l = int(line[3:5])
 				time_s = int(line.split(":")[1].strip())
 				time_e = int(line.split(":")[2][-2:])
-				print(date)
-				print(time)
-				print(date_l)
-				print(time_s)
-				print(time_e)
 				if time_s <= int(time) and time_e >= int(time) and int(date) == date_l:
 					result += line + "\n"
 		say(data, result if result else "Nothing found")
+	elif "mit weather" in txt or 'weather at mit' in txt:
+		w = requests.get('http://api.apixu.com/v1/current.json?key=913ed2a5415d4705ab3194612163103&q=02139').json()
+		say(data, "At MIT, it is {0} and {1}F".format(w['current']['condition']['text'], w['current']['temp_f']))
 	elif (' mit ' in txt) or txt.startswith('mit ') or txt.endswith(' mit') or txt == 'mit':
 		#could probably do something with regex to get rid of those stupid conditions
 		say(data, choose('m', 900) + ' ' + choose('i', 2851) + ' of ' + choose('t', 3575))
