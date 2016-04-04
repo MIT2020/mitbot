@@ -3,6 +3,8 @@ import requests
 import json
 from random import randint, choice
 import goslate
+from datetime import datetime
+from datetime import timedelta
 
 crontable = []
 outputs = []
@@ -103,6 +105,16 @@ def process_message(data):
 	elif "mit weather" in txt or 'weather at mit' in txt:
 		w = requests.get('http://api.apixu.com/v1/current.json?key=913ed2a5415d4705ab3194612163103&q=02139').json()
 		say(data, "At MIT, it is {0} and {1}F".format(w['current']['condition']['text'], w['current']['temp_f']))
+	elif 'cpw' in txt and 'time' in txt:
+		start = datetime(2016,4,7,9,0)
+		today = datetime.today()
+		d = start - today
+		hours, remainder = divmod(d.seconds, 3600)
+		minutes, seconds = divmod(remainder, 60)
+		milli, micro = divmod(d.microseconds, 1000)
+
+		say(data,"CPW is in {0} day{6}, {1} hours, {2} minutes, {3} seconds, {4} milliseconds, and {5} microseconds.".format(d.days, hours, minutes, seconds, milli, micro, 's'*bool(d.days-1)))
+		#conditionally shows the 's' for when days is plural, too lazy to add that for the other units of time
 	elif (' mit ' in txt) or txt.startswith('mit ') or txt.endswith(' mit') or txt == 'mit':
 		#could probably do something with regex to get rid of those stupid conditions
 		say(data, choose('m', 900) + ' ' + choose('i', 2851) + ' of ' + choose('t', 3575))
