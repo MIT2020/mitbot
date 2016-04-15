@@ -50,7 +50,7 @@ def fortune():
 def process_message(data):
 	txt = str(data['text']).lower()
 	print("Incoming message: " + txt)
-	if randint(0,100) == 42:
+	if randint(0,1000) == 428:
 		say(data, 'Lol ' + choice(names) + ' is such an idiot')
 	
 	if 'tell a joke' in txt:
